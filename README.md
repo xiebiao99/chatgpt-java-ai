@@ -16,6 +16,20 @@
 
 SpringBoot+Vue+Uniapp搭建的前后端分离的Java版本的ChatGPT智能Ai对话系统，小程序、H5和app包含首页、智能问答、角色模型、Ai壁纸、智能绘画、知识付费商城、ChatTTS语音、下载资源、积分、搜索、会员中心、卡密兑换、 充值记录、全部订单、每日任务、我的收藏、历史记录、私密小屋、分销中心、背景切换、一键分享、联系客服、修改头像、关于我们、一键退出等公功能； 后端管理包括系统管理、智能对话、基本设置、壁纸管理、商品管理、会员管理、订单管理、支付管理、素材管理、页面装饰、搜索历史、系统监控、代码生成等，需要全套源码的联系！
 
+## 版本信息
+
+### 基础版
+
+https://gitee.com/super-ai001/chatgpt-java-system
+
+https://github.com/xiebiao99/chatgpt-java-system
+
+### 升级版
+
+https://gitee.com/xiebiao99/chatgpt-java-ai#chatgpt-java-ai
+
+https://github.com/xiebiao99/chatgpt-java-ai
+
 ##  页面展示
 
 ## 一、公众号/小程序/app/H5
@@ -303,5 +317,4 @@ https://share.weiyun.com/ndCwHz5v
 **QQ交流群：871068824**
 
 ![image-20240331153447761](README.assets/image-20240331153447761.png)
-
 
